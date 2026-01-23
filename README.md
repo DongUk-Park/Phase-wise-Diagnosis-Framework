@@ -1,4 +1,2 @@
-# Phase-wise-Diagnosis-Framework
+# Echoes in the Loop: Diagnosing Risks in LLM-Powered Recommender Systems under Feedback Loops
 SIGIR26
-
-test_update 1.23
